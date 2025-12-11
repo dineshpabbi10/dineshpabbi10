@@ -6,6 +6,12 @@ Senior SDE at Workday building **scalable microservices** and **large-scale data
 
 ---
 
+## 📊 Github Stats
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dineshpabbi10&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
+
+---
+
 ## 💼 Experience
 
 **Workday** — Senior SDE *(Feb 2023 - Present)*
