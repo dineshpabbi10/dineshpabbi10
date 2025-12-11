@@ -42,7 +42,7 @@ Senior SDE at Workday building **scalable microservices** and **large-scale data
 
 ## 📫 Connect
 
-📧 dineshpabbi10@outlook.com | 🔗 [LinkedIn](https://linkedin.com/in/dineshpabbi10) | 💻 [LeetCode](https://leetcode.com/dineshpabbi10)
+📧 dineshpabbi10@outlook.com | 🔗 [LinkedIn](https://linkedin.com/in/dineshpabbi10) | 💻 [LeetCode](https://leetcode.com/u/user9169Z/)
 
 ---
 
