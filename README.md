@@ -90,16 +90,6 @@ I'm a **Senior SDE** at Workday, specializing in **microservices architecture**,
 
 ---
 
-## 📊 GitHub Statistics
-
-## 📊 GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dineshpabbi10&theme=radical)](https://git.io/streak-stats)
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dineshpabbi10&theme=radical&no-frame=true&no-bg=true)](https://github.com/dineshpabbi10)
-
----
-
 ## 🔗 Connect With Me
 
 - **Email:** dineshpabbi10@outlook. com
