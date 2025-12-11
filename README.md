@@ -12,6 +12,10 @@ Senior SDE at Workday building **scalable microservices** and **large-scale data
 
 ---
 
+## 📊 Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/user9169Z?theme=dark&font=Lekton&ext=activity)
+---
+
 ## 💼 Experience
 
 **Workday** — Senior SDE *(Feb 2023 - Present)*
