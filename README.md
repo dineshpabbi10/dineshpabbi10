@@ -92,9 +92,11 @@ I'm a **Senior SDE** at Workday, specializing in **microservices architecture**,
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshpabbi10&show_icons=true&theme=radical)
+## 📊 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshpabbi10&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dineshpabbi10&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dineshpabbi10&theme=radical&no-frame=true&no-bg=true)](https://github.com/dineshpabbi10)
 
 ---
 
